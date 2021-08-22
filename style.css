@@ -283,7 +283,7 @@ header{
 
 .my-services {
     background-color: var(--clr-dark);
-    background-image: url(../fotos/partitura.jpg);
+    background-image: url(./media/partitura.jpg);
     background-size: cover;
     background-blend-mode: multiply;
     color: var(--clr-ligt);
